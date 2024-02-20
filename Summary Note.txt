@@ -1,0 +1,129 @@
+Master data
+1/ REQ Attributes (10): reference (ID), urgency, priority, author, ownership, complexity, source, status, Risk, Stability
+2/ Phân tích CR cần lưu ý các yếu tố nào: cost (Effort), benefit, course of action, priority, risk
+3/ Planning approach: adaptive, predictive
+4/ Format of document: formal, informal, presentation
+5/ Platform communication: group, individual, email & non-verbal
+6/ Elicitation type: experiment, research, collaborative
+7/ REQ model format: metric, diagram
+8/ REQ category: people and role, activity flow, data & information, rationale, capability
+9/ REQ characteristics: atomic, concise, consistent, prioritized, understandable, testable, unambiguous, feasible, and complete.
+10/ Solution approach: create, purchase, combine
+11/ opp: increase efficiencies (Eliminate redundancy), improve access to information, and identify additional capabilities.
+12/ chọn design option: resources, constraint, dependencies between REQ.
+13/ Các loại Trace Relationship: Derive, Depends (Necessity/Effort), Satisfy, Validate
+14/ Các tiêu chí Prioritization: Benefit, Penalty, Cost, Risk, Dependencies, Time Sensitivity, Stability, Regulatory or Policy Compliance.
+15/ Khi xảy ra CR thì cần phân tích những phần sau: Benefit, Cost, impact, Schedule, urgency.
+16/ Risk Tolerance: Risk-aversion, Neutrality, Risk-seeking.
+17/ Khi collect performance measure thì cần lưu ý: Volume or Sample Size, Frequency and Timing, Currency.
+*************************
+Chương 3:
+	3.1. Plan Business Analysis Approach
+		- Những yếu tố BA xem xét khi chọn approach?
+		- Danh sách task mà BA plan trong dự án (Predictive, Adaptive)
+	
+	3.2. Plan stakeholder engagement
+		- Ai tham gia vào trong dự án? (Who, Role, authority, attitude)
+		=> lên plan làm việc và dễ dàng hợp tác vs các bên.
+	
+	3.3. Plan BA governance (PROCESS)
+		- Quy trình ra quyết định
+		- Quy trình change request (khi đánh giá CR thì xem xét bao nhiêu yếu tố) => 5.4
+		- Quy trình xét duyệt (Approval) => 5.5
+		- Quy trình đánh giá độ ưu tiên => 5.3
+	
+	3.4. Plan BA information management
+		- Có bao nhiêu REQ Attributes (10)
+	
+	3.5. BA performance (lesson learn, best practice...)
+		- Các tiêu chí đánh giá BA
+		- 3 recommendations: preventive, corrective, improvement
+Chương 4:
+	4.1. Prepare for Elicitation
+		- Hiểu scope (?)
+		- Lựa chọn kỹ thuật và các yếu tố để lựa chọn
+		- Chuẩn bị logistic
+		- Chuẩn bị tài liệu hỗ trợ
+		- Hướng dẫn trước các bên cho cuộc họp
+	4.2. Conduct Elicitation
+		- Control buổi lấy yêu cầu
+		- Capture những thông tin BA đã trao đổi vs các bên
+		- Học kỹ phần Technique
+	4.3. Confirm Elicitation results
+		- Hiểu đúng yêu cầu của các bên không?
+		- đảm bảo thông tin thu thập được đầy đủ, chi tiết và không bị mâu thuẫn vs các thông tin khác
+	4.4. Communicate BA info 
+		- Package: formal documentation, informal documentation, presentation
+		- Method: indivitual, group, non-verbal
+	4.5. Manage stakeholder collaboration
+Chương 5:
+	REQ life cycle
+		Bắt đầu khi 1 requirement được tạo ra
+		Kết thúc khi solution không còn được sử dụng nữa
+
+	5.1. Trace REQ
+		- Trace Relationship? (Derive, Depend (Effort, Necessity), validate, satisfy)
+	5.2. Maintain REQ
+		- Duy trì tính chính xác và latest của các req, docx
+		- Reuse
+	5.3. Prioritize REQ
+		- Các tiêu chí đánh giá độ ưu tiên (lưu ý phần risk)
+	5.4. Assess CR
+		- Các tiêu chí đánh giá CR
+	5.5. Approve CR
+
+
+Chuong 7:
+	7.1. Analyze and model REQ
+		- Các loại model format: matrix, diagram
+		- Các loại model category (purpose)
+		- Học kỹ phần technique
+	7.2. Verify REQ (Do the thing right)
+		- Nắm được các tiêu chí verify (characteristic REQ)
+	7.3. Validate REQ (Do the right thing)
+		- Kiểm chứng staholer REQ, solution REQ, transition REQ có đáp ứng business REQ k
+
+	7.4. Define REQ Architecture
+		- Phân biệt REQ architecture vs trace REQ
+		- Phân biệt view/ viewpoint, REQ architecture
+		- Các tiêu chí verify req relationship
+	7.5. Define Design Options
+		- Có 3 solution approach: purchase, create, combine
+		- Improvement opportunity
+	7.6. Analyze potential value and recommend solution
+		- So sánh nhiều giải pháp khác nhau
+		- Xem xét benefit -> xem xét cost (bao gồm những loại cost nào?) -> value = benefit - cost -> recommend (các yếu tố để đưa ra suggestion?)
+
+Chương 6:
+Ngoài thuật ngữa Change strategy, còn có những thuật ngữ đồng nghĩa nào khác?
+	6.1. Analyze Current state
+		- Business need ? (business need xuất phát từ những level nào)
+		- Những thành phần nào được gọi là current state component.
+	6.2. Define future state
+		- Phân biệt goal/ objective/ SMART
+	6.3. Assess Risk
+		- Nguồn để tìm kiếm rủi ro 
+		- Risk tolerance (Risk aversion, neutrality, risk seeking)
+	6.4. Define Change strategy
+
+Chương 8: Solution in use
+	8.1. Measure solution performance
+		- Xác định các tiêu chí đo lường
+		- Thu thập kết quả (volumn, size, currency,...)
+	8.2. Analyze performance measure
+		- Phân tích kết quả đạt hay chưa đạt
+	8.3. Assess solution limitation
+		- Bug, hạn chế, dependancies..
+	8.4. Assess enterprise limitation
+		- stakeholder impact analysis (location, functions, concern)
+	8.5 Recommend action
+		- Phải học phần recommendation
+
+
+
+
+
+
+
+
+		
